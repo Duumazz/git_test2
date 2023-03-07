@@ -1,1 +1,6 @@
 Juhuu , Jyhyy terve terve!
+
+This is first new line of text.
+    This is second new line of text.
+
+        This is third new line of text. :DDD
